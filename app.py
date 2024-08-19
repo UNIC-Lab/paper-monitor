@@ -8,9 +8,9 @@ from scholarly import ProxyGenerator, scholarly
 
 app = Flask(__name__)
 
-pg = ProxyGenerator()
-success = pg.SingleProxy("127.0.0.1:7890")
-scholarly.use_proxy(pg, ProxyGenerator())
+# pg = ProxyGenerator()
+# success = pg.SingleProxy("127.0.0.1:7890")
+# scholarly.use_proxy(pg, ProxyGenerator())
 
 def get_citation_num(paper_title) -> int:
     search_query = scholarly.search_single_pub(paper_title)
