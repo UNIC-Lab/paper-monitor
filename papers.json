@@ -1,0 +1,32 @@
+{
+    "Part I: First Author": [
+        {
+            "citation": "N. Cheng and X. Shen, Opportunistic Spectrum Utilization in Vehicular Communication Networks. Springer.",
+            "title": "Opportunistic Spectrum Utilization in Vehicular Communication Networks"
+        },
+        {
+            "citation": "N. Cheng, H. Zhou, L. Lei, N. Zhang, Y. Zhou, X. Shen, and F. Bai, “Performance analysis of vehicular device-to-device underlay communication,” IEEE Transactions on Vehicular Technology, Vol. 66, no. 6, pp. 5409-5421, 2017. (成果二)",
+            "title": "Performance analysis of vehicular device-to-device underlay communication"
+        }
+    ],
+    "Part II: Corresponding Author": [
+        {
+            "citation": "F. Lyu, N. Cheng*, H. Zhu, H. Zhou, W. Xu, M. Li, and X. Shen, \"Intelligent Context-Aware Communication Paradigm Design for IoVs based on Data Analysis,\" IEEE Network, vol. 32, no. 6, pp. 74-82, Nov. 2018.",
+            "title": "Intelligent Context-Aware Communication Paradigm Design for IoVs based on Data Analysis"
+        },
+        {
+            "citation": "F. Lyu, H. Zhu, H. Zhou, N. Cheng*, W. Xu, M. Li, and X. Shen \"Characterizing Urban Vehicle-to-Vehicle Communications for Reliable Safety Applications,\" IEEE Transactions on Intelligent Transportation System, vol. 21, no. 6, pp. 2586-2602, June 2020. DOI: 10.1109/TITS.2019.2920813. *  (成果一)",
+            "title": "Characterizing Urban Vehicle-to-Vehicle Communications for Reliable Safety Applications"
+        }
+    ],
+    "Part III: Student First Author": [
+        {
+            "citation": "Jingchao He, Nan Cheng*, Zhisheng Yin, Conghao Zhou, Haibo Zhou, Wei Quan, Xiao-Hui Lin, “Service-Oriented Network Resource Orchestration in Space-Air-Ground Integrated Network,” IEEE Transactions on Vehicular Technology, vol. 73, no. 1, pp. 1162-1174, Jan. 2024. DOI: 10.1109/TVT.2023.3301676.",
+            "title": "Service-Oriented Network Resource Orchestration in Space-Air-Ground Integrated Network"
+        },
+        {
+            "citation": "Jingchao He; Nan Cheng*; Zhisheng Yin; Haibo Zhou; Conghao Zhou; Khalid Aldubaikhy; Abdullah Alqasir, Xuemin Shen, “Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach,” IEEE Internet of Things Journal, early access.",
+            "title": "Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach"
+        }
+    ]
+}
