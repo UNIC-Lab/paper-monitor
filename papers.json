@@ -7,6 +7,58 @@
         {
             "citation": "N. Cheng, H. Zhou, L. Lei, N. Zhang, Y. Zhou, X. Shen, and F. Bai, “Performance analysis of vehicular device-to-device underlay communication,” IEEE Transactions on Vehicular Technology, Vol. 66, no. 6, pp. 5409-5421, 2017. (成果二)",
             "title": "Performance analysis of vehicular device-to-device underlay communication"
+        },
+        {
+            "citation": "N. Cheng, N. Lu, N. Zhang, X. Zhang, X. Shen, and J.W. Mark, “Opportunistic WiFi Offloading in Vehicular Environment: A Game-Theory Approach,” IEEE Transactions on Intelligent Transportation System, vol. 17, no. 7, pp. 1944-1955, 2016. (成果二)",
+            "title": "Opportunistic WiFi Offloading in Vehicular Environment: A Game-Theory Approach"
+        },
+        {
+            "citation": "N. Cheng, N. Lu, N. Zhang, T. Yang, X. Shen, and J. W. Mark, “Vehicle-Assisted Device-to-Device Data Delivery for Smart Grid,” IEEE Transactions on Vehicular Technology, vol. 65, no. 4, pp. 2325-2340, 2016. (成果二)",
+            "title": "Vehicle-Assisted Device-to-Device Data Delivery for Smart Grid"
+        },
+        {
+            "citation": "N. Cheng, N. Zhang, N. Lu, X. Shen, J. W. Mark, and F. Liu, “Opportunistic Spectrum Access for CR-VANETs: A Game Theoretic Approach,” IEEE Transactions on Vehicular Technology, Vol. 63, Issue 1, pp. 237-251, 2014. (成果一, 2区)",
+            "title": "Opportunistic Spectrum Access for CR-VANETs: A Game Theoretic Approach"
+        },
+        {
+            "citation": "N. Cheng, N. Lu, N. Zhang, X. Shen, and J. W. Mark, “Vehicular WiFi Offloading: Challenges and Solutions,” Vehicular Communications (Elsevier), Vol. 1, No. 1, pp. 13-21, 2014. (成果一, 2区)",
+            "title": "Vehicular WiFi Offloading: Challenges and Solutions"
+        },
+        {
+            "citation": "N. Cheng, F. Lyu, J. Chen, W. Xu, H. Zhou, S. Zhang, and X. Shen, “Big Data Driven Vehicular Networks,” IEEE Network, vol. 32, no. 6, pp. 160-167, 2018. DOI: 10.1109/MNET.2018.1700460. (成果二, 1区)",
+            "title": "Big Data Driven Vehicular Networks"
+        },
+        {
+            "citation": "N. Cheng, W. Xu, W. Shi, Y. Zhou, N. Lu, H. Zhou, and X. Shen, “Air-Ground Integrated Mobile Edge Networks: Architecture, Challenges and Opportunities,” IEEE Communication Magazine, vol. 56, no. 8, pp. 26-32, 2018. (成果一, 1区)",
+            "title": "Air-Ground Integrated Mobile Edge Networks: Architecture, Challenges and Opportunities"
+        },
+        {
+            "citation": "N. Cheng, F. Lyu, W. Quan, C. Zhou, H. He, W. Shi, and X. Shen, “Space/Aerial-Assisted Computing Offloading for IoT Applications: A Learning-based Approach”, IEEE Journal on Selected Areas in Communications, vol. 37, no. 5, pp. 1117-1129, 2019. (成果一, 1区)",
+            "title": "Space/Aerial-Assisted Computing Offloading for IoT Applications: A Learning-based Approach"
+        },
+        {
+            "citation": "N. Cheng, W. Quan, W. Shi, H. Wu, Q. Ye, H. Zhou, W. Zhuang, X. Shen, and B. Bai, “A Comprehensive Simulation Platform for Space-Air-Ground Integrated Network”, IEEE Wireless Communications, vol. 27, no. 1, pp. 178-185, Feb. 2020. (成果二, 1区)(WCM top 50热点)",
+            "title": "A Comprehensive Simulation Platform for Space-Air-Ground Integrated Network"
+        },
+        {
+            "citation": "N. Cheng, J. He, Z. Yin, C. Zhou, H. Wu, F. Lyu, H. Zhou, and X. Shen, “6G Service-Oriented Space-air-ground Integrated Network: A Survey,” Chinese Journal of Aeronautics, vol. 35, no. 9, pp. 1-18, 2022.(封面论文)",
+            "title": "6G Service-Oriented Space-air-ground Integrated Network: A Survey"
+        },
+        {
+            "citation": "N. Cheng, S. Wu, X. Wang, Z. Yin, C. Li, W. Chen, and F. Chen, “AI for UAV-Assisted IoT Applications: A Comprehensive Review,” IEEE IoT Journal, Vol. 10, No. 16, pp. 14438-14461, 2023.",
+            "title": "AI for UAV-Assisted IoT Applications: A Comprehensive Review"
+        },
+        {
+            "citation": "N. Cheng, X. Wang, Z. Li, Z. Yin, T. Luan, and X. Shen, “Toward enhanced reinforcement learning-based resource management via digital twin: Opportunities, applications, and challenges,” IEEE Network, early access.",
+            "title": "Toward enhanced reinforcement learning-based resource management via digital twin: Opportunities, applications, and challenges"
+        },
+        {
+            "citation": "Cheng, N., Chen, F., Chen, W., Cheng, Z., Yang, Q., Li, C., & Shen, X. (2024). 6G Omni-Scenario On-Demand Services Provisioning: Vision, Technology and Prospect. SCIENCE CHINA Information Sciences, 54(5), 1025-1054.",
+            "title": "6G Omni-Scenario On-Demand Services Provisioning: Vision, Technology and Prospect"
+        },
+        {
+            "citation": "Shen, X., Cheng, N., Zhou, H. B., Lyu, F., Quan, W., Shi, W., ... & Zhou, C. (2020). Space-air-ground integrated networks: Review and prospect. Chinese journal on Internet of Things, 4(3), 3-19.",
+            "title": "Space-air-ground integrated networks: Review and prospect"
         }
     ],
     "Part II: Corresponding Author": [
@@ -17,6 +69,102 @@
         {
             "citation": "F. Lyu, H. Zhu, H. Zhou, N. Cheng*, W. Xu, M. Li, and X. Shen \"Characterizing Urban Vehicle-to-Vehicle Communications for Reliable Safety Applications,\" IEEE Transactions on Intelligent Transportation System, vol. 21, no. 6, pp. 2586-2602, June 2020. DOI: 10.1109/TITS.2019.2920813. *  (成果一)",
             "title": "Characterizing Urban Vehicle-to-Vehicle Communications for Reliable Safety Applications"
+        },
+        {
+            "citation": "W. Quan, N. Cheng*, M. Qin, H. Zhang, H. Chan, X. Shen, \"Adaptive Transmision Control for Software Defined Vehicular Networks,\" IEEE Wireless Communications Letters, vol.8, no.3, pp.653-65019, 2019. DOI:10.1109/LWC.2018.2879514.",
+            "title": "Adaptive Transmission Control for Software Defined Vehicular Networks"
+        },
+        {
+            "citation": "W. Wu, N. Zhang, N. Cheng*, “Beef up mmWave Dense Cellular Networks with D2D-Assisted Cooperative Edge Caching”,  IEEE Transactions on Vehicular Technology, vol.68, no. 4, pp. 3890-3904, Apr. 2019.(成果一)",
+            "title": "Beef up mmWave Dense Cellular Networks with D2D-Assisted Cooperative Edge Caching"
+        },
+        {
+            "citation": "F. Lyu, N. Cheng*, H. Zhu, H. Zhou, W. Xu, M. Li, and X. Shen, “Towards Rear-End Collision Avoidance: Adaptive Beaconing for Connected Vehicles,” IEEE Transactions on Intelligent Transportation System, vol. 22, no. 2, pp. 1248 - 1263, Feb. 2021(成果二)",
+            "title": "Towards Rear-End Collision Avoidance: Adaptive Beaconing for Connected Vehicles"
+        },
+        {
+            "citation": "M. Qin, Q. Yang, N. Cheng*, J. Li, W. Wu, RR Rao, and X. Shen, \"Learning Aided Multiple Time-Scale SON Function Coordination in Ultra-Dense Small Cell Networks,\" IEEE Transactions on Wireless Communications, vol. 18, no. 4, pp. 2080-2092, April 2019(成果二)",
+            "title": "Learning Aided Multiple Time-Scale SON Function Coordination in Ultra-Dense Small Cell Networks"
+        },
+        {
+            "citation": "W. Shi, J. Li, N. Cheng*, F. Lyu, S. Zhang, H. Zhou, X. Shen, “Multi-Drone 3D Trajectory Planning and Scheduling in Drone Assisted Radio Access Networks,” IEEE Transactions on Vehicular Technology, vol. 68, no. 8, pp. 8145-8158, Aug. 2019. DOI: 10.1109/TVT.2019.2925629. (成果二)",
+            "title": "Multi-Drone 3D Trajectory Planning and Scheduling in Drone Assisted Radio Access Networks"
+        },
+        {
+            "citation": "H. Wu, J. Chen, W. Xu, N. Cheng*, W. Shi, L. Wang, and X. Shen, “Delay-Minimized Edge Caching in Heterogeneous Vehicular Networks: A Matching-Based Approach”, IEEE Transactions on Wireless Communications, vol. 19, no. 10, pp. 6409-6424, Oct. 2020.",
+             "title": "Delay-Minimized Edge Caching in Heterogeneous Vehicular Networks: A Matching-Based Approach"
+        },
+        {
+            "citation": "Y. Tang, N. Cheng*, W. Wu, M. Wang, Y. Dai, and X. Shen, \"Delay-Minimization Routing for Heterogeneous VANETs with Machine Learning based Mobility Prediction,\" IEEE Transactions on Vehicular Technology, vol. 68, no. 4, pp. 3967-3979, Apr. 2019. (成果二)",
+            "title": "Delay-Minimization Routing for Heterogeneous VANETs with Machine Learning based Mobility Prediction"
+        },
+        {
+            "citation": "W. Wang, N. Cheng*, K.C. Teh, X. Lin, W. Zhuang, and X. Shen, \"On Countermeasures of Pilot Spoofing Attack in Massive MIMO Systems: A Double Channel Training Based Approach,\" IEEE Transactions on Vehicular Technology, vol. 68, no. 7, pp. 6697-6708, July 2019. (成果二)",
+            "title": "On Countermeasures of Pilot Spoofing Attack in Massive MIMO Systems: A Double Channel Training Based Approach"
+        },
+        {
+            "citation": "W. Xu, H. Zhou, H. Wu, F. Lyu, N. Cheng*, and X. Shen, \"Intelligent Link Adaptation in 802.11 Vehicular Networks: Challenges and Solutions,\" IEEE Communications Standards Magazine, vol. 3, no. 1, pp. 12-18,2019. (成果二)",
+            "title": "Intelligent Link Adaptation in 802.11 Vehicular Networks: Challenges and Solutions"
+        },
+        {
+            "citation": "M. Li, N. Cheng*, J. Gao, Y. Wang, L. Zhao, and X. Shen, “Energy-Efficient UAV-Assisted Mobile Edge Computing: Resource Allocation and Trajectory Optimization,” IEEE Transactions on Vehicular Technology, vol. 69, no. 3, pp. 3424 - 3438, March 2020.",
+            "title": "Energy-Efficient UAV-Assisted Mobile Edge Computing: Resource Allocation and Trajectory Optimization"
+        },
+        {
+            "citation": "C. Zhou, W. Wu, H. He, P. Yang, F. Lyu, N. Cheng*, and X. Shen, “Deep Reinforcement Learning for Delay-Oriented IoT Task Scheduling in SAGIN”, IEEE Transactions on Wireless Communications, vol. 20, no. 2, pp. 911-925, Feb. 2021.",
+            "title": "Deep Reinforcement Learning for Delay-Oriented IoT Task Scheduling in SAGIN"
+        },
+        {
+            "citation": "Y. Hui, N. Cheng*, Z. Su, Y. Huang, C. Zhao, T. Luan, and C. Li, “Secure and Personalized Edge Computing Services in 6G Heterogeneous Vehicular Networks,” IEEE Internet of Things Journal, vol. 9, no. 8, pp. 5920-5931, 15 April, 2022",
+            "title": "Secure and Personalized Edge Computing Services in 6G Heterogeneous Vehicular Networks"
+        },
+        {
+            "citation": "Y. Zhou, X. Ma, S. Hu, D. Zhou, N. Cheng*, and N. Lu, “QoE-driven Adaptive Deployment Strategy of Multi-UAV Networks Based on Hybrid Deep Reinforcement Learning,” IEEE Internet of Things Journal, vol. 9, no. 8, pp. 5868-5881, Apr. 2022.",
+            "title": "QoE-driven Adaptive Deployment Strategy of Multi-UAV Networks Based on Hybrid Deep Reinforcement Learning"
+        },
+        {
+            "citation": "Z. Yin, M. Jia, N. Cheng*, W. Wang, F. Lyu, Q. Guo, and X. Shen, “UAV-assisted Physical Layer Security in Multi-beam Satellite-enabled Vehicle Communications,” Transactions on Intelligent Transportation Systems, vol. 23, no. 3, pp. 2739 - 2751, March 2022.",
+            "title": "UAV-assisted Physical Layer Security in Multi-beam Satellite-enabled Vehicle Communications"
+        },
+        {
+            "citation": "Z. Yin, N. Cheng*, T. H. Luan*, and P. Wang, “Physical Layer Security in Cybertwin-enabled Integrated Satellite-terrestrial Vehicle Networks,” IEEE Transactions on Vehicular Technology, vol. 71, no. 5, pp. 4561-4572, May 2022.",
+            "title": "Physical Layer Security in Cybertwin-enabled Integrated Satellite-terrestrial Vehicle Networks"
+        },
+        {
+            "citation": "Z. Yin, N. Cheng*, T. H. Luan, Y. Hui and W. Wang, \"Green Interference Based Symbiotic Security in Integrated Satellite-terrestrial Communications,\" in IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9962-9973, Nov. 2022. doi: 10.1109/TWC.2022.3181277",
+            "title": "Green Interference Based Symbiotic Security in Integrated Satellite-terrestrial Communications"
+        },
+        {
+            "citation": "Z. Yin, N. Cheng*, Y. Hui, W. Wang, L. Zhao, A. Khalid, and A. Abdullah, \"Multi-domain Resource Multiplexing Based Secure Transmission for Satellite-supported IoT Networks: AO-SCA Approach,\" in IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 7319 - 7330, Nov. 2023.",
+            "title": "Multi-domain Resource Multiplexing Based Secure Transmission for Satellite-supported IoT Networks: AO-SCA Approach"
+        },
+        {
+            "citation": "R. Sun, N. Cheng*, R. Zhang, Y. Wang, C. Li, \"Sum Rate Maximization in IRS-Assisted Wireless Powered Multiuser MIMO Networks with Practical Phase Shift,\" IEEE Internet of Things Journal, vol. 10, no. 5, pp. 4292-4306, March 2023.",
+            "title": "Sum Rate Maximization in IRS-Assisted Wireless Powered Multiuser MIMO Networks with Practical Phase Shift"
+        },
+        {
+            "citation": "Y. Hui, Y. Qiu, N. Cheng*, Z. Yin, R. Chen, K. Liang, and T. H. Luan “Digital Twin Enabled On-demand Content Delivery in HetVNets,” IEEE Internet of Things Journal, vol. 10, no. 16, pp. 14082-14041, Aug. 2023.",
+            "title": "Digital Twin Enabled On-demand Content Delivery in HetVNets"
+        },
+        {
+            "citation": "G. Luo, C. Shao, N. Cheng*, H. Zhou, H. Zhang, Q. Yuan, J. Li, “EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness,” IEEE Journal on Selected Areas in Communications, vol. 42, no. 1, pp. 207-222, 2024.",
+            "title": "EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness"
+        },
+        {
+            "citation": "Y. Hui, J. Hu, N. Cheng*, G. Zhao, R. Chen, T. H. Luan, and K. Aldubaikhy, “RCFL: Redundancy-aware Collaborative Federated Learning in Vehicular Networks,” IEEE Transactions on Intelligent Transportation Systems, early access, 2023.",
+            "title": "RCFL: Redundancy-aware Collaborative Federated Learning in Vehicular Networks"
+        },
+        {
+            "citation": "Z. Yin, N. Cheng*, T. H. Luan, Y. Song and W. Wang, \"DT-Assisted Multi-Point Symbiotic Security in Space-Air-Ground Integrated Networks,\" in IEEE Transactions on Information Forensics and Security, vol. 18, pp. 5721-5734, 2023, doi: 10.1109/TIFS.2023.3313326.",
+            "title": "DT-Assisted Multi-Point Symbiotic Security in Space-Air-Ground Integrated Networks"
+        },
+        {
+            "citation": "R Sun, Y Wen, N Cheng*, W Wang, R Chai, Y Hui, “Structural Knowledge-Driven Meta-Learning for Task Offloading in Vehicular Networks with Integrated Communications, Sensing and Computing,” Journal of Information and Intelligence.",
+            "title": "Structural Knowledge-Driven Meta-Learning for Task Offloading in Vehicular Networks with Integrated Communications, Sensing and Computing"
+        },
+        {
+            "citation": "Ruijin Sun, Nan Cheng*, Changle Li, Fangjiong Chen, and Wen Chen, “Knowledge-Driven Deep Learning Paradigms for Wireless Network Optimization in 6G,” IEEE Network, vol. 38, no. 2, pp. 70-78, 2024.",
+            "title": "Knowledge-Driven Deep Learning Paradigms for Wireless Network Optimization in 6G"
         }
     ],
     "Part III: Student First Author": [
@@ -27,6 +175,38 @@
         {
             "citation": "Jingchao He; Nan Cheng*; Zhisheng Yin; Haibo Zhou; Conghao Zhou; Khalid Aldubaikhy; Abdullah Alqasir, Xuemin Shen, “Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach,” IEEE Internet of Things Journal, early access.",
             "title": "Load-Aware Network Resource Orchestration in LEO Satellite Network: A GAT-Based Approach"
+        },
+        {
+            "citation": "Jinglong Shen, Nan Cheng*, Xiucheng Wang, Feng Lyu, Wenchao Xu, Zhi Liu, Khalid Aldubaikhy, Xuemin Shen, “RingSFL: An Adaptive Split Federated Learning Towards Taming Client Heterogeneity,” IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 5462-5478, May 2024, DOI: 10.1109/TMC.2023.3309633.",
+            "title": "RingSFL: An Adaptive Split Federated Learning Towards Taming Client Heterogeneity"
+        },
+        {
+            "citation": "Xiucheng Wang, Lianhao Fu, Nan Cheng*, Ruijin Sun, Tom Luan, Wei Quan and Khalid Aldubaikhy, “Joint Flying Relay Location and Routing Optimization for 6G UAV-IoT Networks: A Graph Neural Network-Based Approach,” Remote Sensing, vol. 14, no. 17, Sep. 2022.",
+            "title": "Joint Flying Relay Location and Routing Optimization for 6G UAV-IoT Networks: A Graph Neural Network-Based Approach"
+        },
+        {
+            "citation": "Yuejie Zhang, Nan Cheng*, Yanpeng Dai, Zhisheng Yin, Wei Quan, Yi Zhou, and Ning Zhang, “Resource Scheduling for eMBB and URLLC Multiplexing in NOMA-Based VANETs: A Dual Time-Scale Approach,” IEEE Transactions on Vehicular Technologies, early access, doi: 10.1109/TVT.2023.3337250.",
+            "title": "Resource Scheduling for eMBB and URLLC Multiplexing in NOMA-Based VANETs: A Dual Time-Scale Approach"
+        },
+        {
+            "citation": "Longfei Ma, Nan Cheng*, Conghao Zhou, Xiucheng Wang, Ning Lu, Ning Zhang, Khalid Aldubaikhy, Abdullah Alqasir, “Dynamic Neural Network-Based Resource Management for Mobile Edge Computing in 6G Networks,” IEEE Transactions on Cognitive Communications and Networking, early access, DoI: 10.1109/TCCN.2023.3346824.",
+            "title": "Dynamic Neural Network-Based Resource Management for Mobile Edge Computing in 6G Networks"
+        },
+        {
+            "citation": "Wei Wang, Nan Cheng*, Mushu Li, Tingting Yang, Conghao Zhou, Changle Li, Fangjiong Chen, “Value Matters: A Novel Value of Information-Based Resource Scheduling Method for CAVs,” IEEE Transactions on Vehicular Technologies, vol. 73, no. 6, pp. 8720-8735, 2024.",
+            "title": "Value Matters: A Novel Value of Information-Based Resource Scheduling Method for CAVs"
+        },
+        {
+            "citation": "Hao Yang, Nan Cheng, Ruijin Sun, Wei Quan, Rong Chai, Khalid Aldubaikhy, Abdullah Alqasir, Xuemin Shen, “Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach,” IEEE Internet of Things Journal, early access.",
+            "title": "Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach"
+        },
+        {
+            "citation": "X. Wang, N. Cheng*, L. Ma, R. Sun, R. Chai and N. Lu, \"Digital Twin-assisted Knowledge Distillation Framework for Heterogeneous Federated Learning,\" China Communications, vol. 20, no. 2, pp. 61-78, Feb. 2023, doi: 10.23919/JCC.2023.02.005.",
+            "title": "Digital Twin-assisted Knowledge Distillation Framework for Heterogeneous Federated Learning"
+        },
+        {
+            "citation": "Wang, X., Qiu, Q., & Cheng, N. (2024). Reliable Projection Based Unsupervised Learning for Semi-Definite QCQP with Application of Beamforming Optimization. arXiv preprint arXiv:2407.03668.",
+            "title": "Reliable Projection Based Unsupervised Learning for Semi-Definite QCQP with Application of Beamforming Optimization"
         }
     ]
 }

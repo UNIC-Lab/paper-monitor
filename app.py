@@ -7,14 +7,6 @@ from flask import Flask, jsonify, render_template_string
 
 app = Flask(__name__)
 
-# from scholarly import ProxyGenerator, scholarly
-# pg = ProxyGenerator()
-# success = pg.SingleProxy("127.0.0.1:7890")
-# scholarly.use_proxy(pg, ProxyGenerator())
-# def get_citation_num(paper_title) -> int:
-#     search_query = scholarly.search_single_pub(paper_title)
-#     return search_query["num_citations"]
-
 from serpapi import GoogleSearch
 api_pool = [
     "809a2768ee9d4ea42502efcc655b31b6174767a4fe316899d6aadb0a77cacbce",
@@ -65,6 +57,7 @@ def update_citations():
         for paper in papers_list:
             title = paper['title']
             citations[title] = get_citation_num(title)
+            time.sleep(1)
     save_citations(citations)
 
 @app.route('/')
