@@ -8,10 +8,9 @@ from flask import Flask, jsonify, render_template_string
 app = Flask(__name__)
 
 from serpapi import GoogleSearch
-api_pool = [
-    "809a2768ee9d4ea42502efcc655b31b6174767a4fe316899d6aadb0a77cacbce",
-]
 def get_citation_num(paper_title) -> int:
+    with open('api_pool.json', 'r', encoding="utf-8") as f:
+        api_pool = json.load(f)
     for api_key in api_pool:
         params = {
             "engine": "google_scholar",
@@ -19,6 +18,7 @@ def get_citation_num(paper_title) -> int:
             "api_key": api_key,
         }
         search = GoogleSearch(params)
+        print(paper_title)
         results = search.get_dict()
         if results["search_metadata"]["status"] == "Success":
             if len(results["organic_results"]) == 0:
