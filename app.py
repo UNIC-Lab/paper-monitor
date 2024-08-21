@@ -4,17 +4,39 @@ import time
 from threading import Thread
 
 from flask import Flask, jsonify, render_template_string
-from scholarly import ProxyGenerator, scholarly
 
 app = Flask(__name__)
 
-pg = ProxyGenerator()
-success = pg.SingleProxy("127.0.0.1:7890")
-scholarly.use_proxy(pg, ProxyGenerator())
+# from scholarly import ProxyGenerator, scholarly
+# pg = ProxyGenerator()
+# success = pg.SingleProxy("127.0.0.1:7890")
+# scholarly.use_proxy(pg, ProxyGenerator())
+# def get_citation_num(paper_title) -> int:
+#     search_query = scholarly.search_single_pub(paper_title)
+#     return search_query["num_citations"]
 
+from serpapi import GoogleSearch
+api_pool = [
+    "809a2768ee9d4ea42502efcc655b31b6174767a4fe316899d6aadb0a77cacbce",
+]
 def get_citation_num(paper_title) -> int:
-    search_query = scholarly.search_single_pub(paper_title)
-    return search_query["num_citations"]
+    for api_key in api_pool:
+        params = {
+            "engine": "google_scholar",
+            "q": paper_title,
+            "api_key": api_key,
+        }
+        search = GoogleSearch(params)
+        results = search.get_dict()
+        if results["search_metadata"]["status"] == "Success":
+            if len(results["organic_results"]) == 0:
+                return -1
+            else:
+                if "cited_by" not in results["organic_results"][0]["inline_links"]:
+                    return 0
+                else:
+                    return results["organic_results"][0]["inline_links"]["cited_by"]["total"]
+    raise Exception("All API keys are used up")
 
 citations_file = 'citations.json'
 papers_file = 'papers.json'
@@ -107,8 +129,8 @@ def periodic_update(interval):
 
 if __name__ == '__main__':
     # 设置定时更新的时间间隔（以秒为单位）
-    interval = 3600*24  # 每小时更新一次
+    interval = 3600*24*7  # 每小时更新一次
     thread = Thread(target=periodic_update, args=(interval,))
     thread.daemon = True
     thread.start()
-    app.run(debug=True)
+    app.run()
